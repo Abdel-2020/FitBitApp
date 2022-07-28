@@ -1,0 +1,14 @@
+{
+  "name": "fitbitapp",
+  "version": "1.0.0",
+  "description": "MyFirstFitBitApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdel",
+  "license": "ISC",
+  "dependencies": {
+    "passport-fitbit-oauth2": "^1.0.2"
+  }
+}
