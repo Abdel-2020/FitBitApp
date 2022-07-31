@@ -9,3 +9,5 @@ fetch('https://api.fitbit.com/1/user/-/activities/heart/date/today/7d.json'  	, 
 
 .then (response => response.json())
 .then(json => console.log(json));
+
+
